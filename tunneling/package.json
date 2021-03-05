@@ -1,0 +1,14 @@
+{
+  "name": "tunneling",
+  "version": "1.0.0",
+  "description": "Creates local tunnel to expose a website in local environment on a public https address",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "localtunnel": "^2.0.1"
+  }
+}
